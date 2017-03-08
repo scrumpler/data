@@ -560,3 +560,144 @@ What can affect the agency problem?
 Voting rights of shareholders.
 What are types of voting rights?
 Cumulative, straight, and proxy.
+
+What is capital budgeting?  
+The process of making and managing expenditures on long-lived assets
+What is capital structure?  
+The proportions of the firm’s financing from current long term debt and equity
+What is a corporation?  
+A corporation is a legal entity that has its own name and possesses a number of legal powers that are the same as those of a natural person.
+What are some components of the articles of incorporation to be included to start a corporation?
+Name of corporation, intended life of corporation (can be forever), business purpose, number of shares of stock the corporation is authorized to issue (and statement of limitations of rights and limitations of different share classes), nature of rights granted to shareholders, and number of members of the initial Board of Directors.
+What is the goal of financial management?
+The goal of financial management is to make money or add value for the owners; to maximize the current value per share of the existing stock.
+Who has control of the firm?
+Stockholders have control of the firm, they elect the board of directors, and the BOD hire and fire management.
+What is the Sarbanes Oxley Act?
+Sarbanes Oxley is an act passed by Congress to protect investors from the possibility of fraudulent activities of companies.  It includes required disclosures, financial reporting, and review of financial statements for accuracy.
+What year was Sarbanes Oxley enacted? 
+2002
+How do book value and market value differ?
+Book value is the assets original purchase price (adjusted for depreciation); the market value is the price the asset could be sold at.
+How is marginal tax rate different from average tax rate?
+Average tax rate is computed by dividing your tax bill by your taxable income and demonstrates the percentage of your income that is paid to taxes. Marginal tax rate is the percentage of taxes you would pay if you earned a dollar amount that fell within the stated margins or brackets for example if your taxable fell between $50,001 and 75,000, your tax rate would be 25% but if your taxable income fell between $75,001 and 100,000 your tax rate would increase to 34%.
+What is operating cash flow?
+Measures the cash generated from operations not including capital spending or working capital; it is the firm’s earnings before interest plus depreciation minus taxes
+What are common sized statements? 
+Common size financial statements have the same features of typical financial statements, but the data is expressed as a percentage of values (percentage of sales for income statement and percentage of assets for balance sheet); they allow different sized companies can be compared.  
+What does the current ratio measure?
+Current Assets/Current liabilities
+Why is the current ratio important?
+The current ratio helps creditors determine if company is able to deliver on its short-term obligations by measuring short term liquidity.  The higher the ratio, the better.
+What is the Quick Ratio? 
+Also known as the Acid Test, the quick ratio is (Current Assets-Inventory)/Current Liabilities.  It shows the current ration excluding inventory.
+How do you calculate Total Asset Turnover? 
+TAT is Sales/Total Assets
+How do you calculate Profit Margin?
+PM is Net Income/Sales
+How do you calculate Return on Assets?
+ROA is Net Income/Total Assets
+How do you calculate Return on Equity?
+Net Income/Total Equity
+How do you calculate Price-Earnings Ratio?
+Price per share/Earnings per share
+How will an increase in Profit Margin impact sustainable growth?
+An increase in Profit Margin will increase sustainable growth
+How will a increase in the debt-equity ratio affect the firm’s financial leverage?
+Firms financial leverage will increase.
+How will a decrease in the percentage of net income paid out as dividends affect the retention ratio?  
+It will increase the detention ratio.
+How will an increase in the firm’s total asset turnover affect sales generated for each dollar in assets?  
+It will increase sales.
+How do you calculate the dividend payout ratio? 
+Divide Net income by cash dividends
+What is a plowback ratio?  
+The plowback ratio is the percentage of income that a company reinvests back into its own operations.
+What is the capital intensity ratio?
+The ratio of total assets to sales and it tells us the amount of assets needed to generate $1 in sales
+What is the difference between simple interest and compound interest?  
+Simple interest computes interest only on the principal amount of the initial investment.  Compound interest is calculated using the principal and interest on the accumulated interest also.
+What is discounting? 
+Discounting is the process of calculating the present value of a future cash flow.
+What is an annuity?
+An annuity is a level stream of regular payments that last for a fixed number of periods.
+What is internal rate of return? 
+The rate that causes a project’s NPV to be zero.  
+ When using the basic IRR rule, when should you accept or reject a project?
+If the IRR is greater than the discount rate; accept the project; if IRR is less than the discount rate; reject the project.
+What does it mean if a project is independent?
+An independent project is one whose acceptance or rejection is independent of the acceptance or rejection of other projects.
+What does it mean to be mutually exclusive?
+Mutually exclusive means to accept one project or investment another must be rejected.
+What are opportunity costs?
+The revenues a company lost/forgoes because a project was not taken; instead and alternative was chosen
+What are sunk costs?
+Costs that have already been incurred and cannot be changed by a decision to accept or reject an alternate project.
+What is Erosion?
+Erosion occurs when a new product reduces sales and, hence the cash flow of other projects.
+What is synergy?
+Synergy occurs when a new project increases the cash flow of existing projects
+What is net working capital?
+The difference between current assets and current liabilities.  
+What is nominal cash flow and how is it discounted?
+Nominal cash flow is the actual dollars to be either received or paid out; it is discounted at the nominal rate.
+What is real cash flow and how is it discounted?
+Real cash flow is the cash flow’s purchasing power and it is discounted at the real rate.
+In capital budgeting how are sunk costs, opportunity costs and side effects considered?
+Sunk costs must be ignored.  Opportunity and side effects must be considered.
+What are fixed costs?
+Fixed costs are those that are not dependent on the amount or goods or services produced during the period.
+What are variable costs?  
+Variable costs changes as the output changes and they zero when there is not any production.  
+What is a bond?  
+A debt instrument where an investor loans money to a company or the government entity for a specified period of time
+What is a stock?
+A share of ownership in a company
+What is preferred stock?  Stock that entitles the stockholder to a fixed dividend; their payment takes priority over common stock
+What is a stock split?
+An issuance of new stock shares from a company to its current stockholders in direct proportion to their current stock holdings, but does not increase the total value.  For example a 2:1 split on a $50 stock would double current shares held and each share would be valued at $25.
+What are capital gains (loss)
+The change in the price of the stock divided by the initial price
+What is the equity risk premium?
+The average excess return on common stocks; results from bearing additional risk.
+What is the Sharpe Ratio?
+The risk premium of the asset divided by the standard deviation.  It is used for calculating the risk adjusted return.
+What is covariance?
+A statistic measuring the interrelationship between two random securities 
+ What is systematic risk?
+Any risk that affects a large number of assets, each to a greater or lesser degree.  It is unavoidable.
+What is unsystematic risk?
+A risk that specifically affects a single asset or a small group of assets.  It is unavoidable.
+What is diversification? 
+Spreading of risk among different securities in an attempt to reduce risk and potential for loss
+What is cumulative voting?
+Cumulative voting is where a stockholder receives a vote for each share times the number of director seats to be elected.  For example, if there are 4 director seats to be elected, each stockholder will receive 4 votes for each share they own.  This voting helps minority shareholders to get more votes and because the directors are elected all at once the votes can go further.
+What is straight voting?
+In straight voting, the directors are elected one at a time and each shareholder receives one vote for each share in each separate election.
+What is a proxy?  
+A proxy is when one grants their voting authority to someone else to vote their shares.
+What is an indenture?
+An indenture is written agreement between the corporation and its creditors.  Also called a deed of trust; it outlines the terms and conditions of the bond.
+What conditions are stated in the indenture?
+The basic terms of the bond, total amount of bonds issued, description of property used as security, repayment arrangements, call provisions, details of the protective covenants.
+What are protective covenants?
+Protective covenants states limitations on actions companies may want to take during the term of the loan.
+What is a negative covenant? 
+Negative covenants limit an action; specifies things a company cannot do.
+What is a positive covenant? 
+A positive covenant states stipulations a company agrees to do.
+What issues arise from bearer bonds?
+Bearer bonds ownership is determined by whomever is holding the bond.  They are not registered so if lost or stolen the “owner” has no recourse to recover it.  Whomever possesses the bond is the owner.  Also, because they are not registered, companies have no way to contact the owners if they need to.
+What is a sinking fund?
+A sinking fund is an account managed by the bond company trustee and is used to repay bonds. The details of the sinking fund are outlined in the indenture.
+How do call provisions work?
+A Call provision allows the company to repurchase all or a portion of the bond at stated prices over a specific time period.  They are most common in corporate bonds.
+What is a call premium?
+Call premium is the difference between a bond’s call price and stated value.  The call price is normally higher than the stated value.
+What is a income bond?
+Income bonds have coupon payments that are dependent on the company’s income.  If the firm does not have sufficient income, dividends are not paid.
+What is a convertible bond?
+Convertible bonds can be traded for shares of stock anytime before the bond matures.  
+What is a put bond?
+Put bonds allows the holder to force the issuer to buy the bond back at the stated price.
+
